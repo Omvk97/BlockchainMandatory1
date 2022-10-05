@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkU+Iv+Of9M7efnFL6Hh1RVQJ3xRjtqqGVMaoZ5sH8l/WXaxZugZNr1OJIPVhiFZmj5MLEzN0o9h1sryUEXHxg==",
+  "success": true,
+  "projectFilePath": "/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/BitcoinCoreInteraction.csproj",
+  "expectedPackageFiles": [
+    "/Users/oliver/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/bin/Debug/net6.0/BitcoinCoreInteraction
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/bin/Debug/net6.0/BitcoinCoreInteraction.deps.json
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/bin/Debug/net6.0/BitcoinCoreInteraction.runtimeconfig.json
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/bin/Debug/net6.0/BitcoinCoreInteraction.dll
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/bin/Debug/net6.0/ref/BitcoinCoreInteraction.dll
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/bin/Debug/net6.0/BitcoinCoreInteraction.pdb
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/bin/Debug/net6.0/CommandLine.dll
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/obj/Debug/net6.0/BitcoinCoreInteraction.csproj.AssemblyReference.cache
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/obj/Debug/net6.0/BitcoinCoreInteraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/obj/Debug/net6.0/BitcoinCoreInteraction.AssemblyInfoInputs.cache
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/obj/Debug/net6.0/BitcoinCoreInteraction.AssemblyInfo.cs
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/obj/Debug/net6.0/BitcoinCoreInteraction.csproj.CoreCompileInputs.cache
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/obj/Debug/net6.0/BitcoinCoreInteraction.csproj.CopyComplete
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/obj/Debug/net6.0/BitcoinCoreInteraction.dll
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/obj/Debug/net6.0/ref/BitcoinCoreInteraction.dll
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/obj/Debug/net6.0/BitcoinCoreInteraction.pdb
+/Users/oliver/OfflineDocuments/git/Uddannelse/BitcoinCoreInteraction/obj/Debug/net6.0/BitcoinCoreInteraction.genruntimeconfig.cache
